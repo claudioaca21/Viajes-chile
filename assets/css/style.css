@@ -1,0 +1,39 @@
+/*tipo de letra*/
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+/* color fondo*/
+.pageBody{
+    background-color: black;
+}
+
+
+/*navbar*/
+.navbar-dark{
+    position: absolute;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color: white ;
+}
+/*imagen carousel*/
+
+.carousel img {
+    max-height: 100vh;
+}
+/*color cards*/
+.card{
+    background-color: #17a3b8;
+}
+/*color de linea*/
+hr{
+    background-color: #17a3b8;
+}
+/*pie de pagina*/
+footer{
+    background-color: #17a3b8;
+    text-decoration: none;
+}
+footer a{
+    color:#fff;
+}
